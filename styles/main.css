@@ -1,0 +1,9 @@
+body {
+  background-color: #131313;
+  color: #ebebeb;
+  scroll-behavior: smooth;
+}
+
+.main-img {
+  height: 100%;
+}
